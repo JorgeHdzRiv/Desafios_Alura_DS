@@ -101,7 +101,7 @@ El bot de trading sigue los siguientes pasos:
    - Si el precio actual es mayor/igual a la media y la tendencia es a la baja → **Vender**.
    - Si el precio actual es menor que la media y la tendencia es al alza → **Comprar**.
 4. **Visualización**: Se generan gráficos con la evolución del precio y la media.
-5. **Automatización**: El bot ejecuta el análisis cada 5 minutos.
+5. **Automatización**: El bot ejecuta el análisis cada cierto numero de interacciones y minutos dados por el usuario.
 
 ---
 
@@ -110,7 +110,7 @@ El bot de trading sigue los siguientes pasos:
 Para ejecutar el bot, usa:
 
 ```bash
-python scripts/main.py
+python main.py
 ```
 
 El bot mostrará en la terminal la decisión de compra/venta y generará gráficos en la carpeta `results/`.
@@ -119,7 +119,7 @@ El bot mostrará en la terminal la decisión de compra/venta y generará gráfic
 
 ## 🔄 Automatización
 
-Puedes automatizar la ejecución del bot cada 5 minutos con un script de Python que use `time.sleep(300)` o programar una tarea en **Windows Task Scheduler** o **cron** en Linux.
+Puedes automatizar la ejecución del bot de acuerdo al numero de iteracciones y minutos que quieras.
 
 ---
 
