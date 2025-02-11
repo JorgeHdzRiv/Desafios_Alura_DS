@@ -47,8 +47,8 @@ pip install -r requirements.txt
 
 ### **1️⃣ Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/proyectos-ciencia-datos-alura.git
-cd proyectos-ciencia-datos-alura/RobotTrading
+git https://github.com/JorgeHdzRiv/Desafios_Alura_DS.git
+cd RobotTrading
 ```
 
 ### **2️⃣ Crear y activar el entorno virtual**
@@ -144,7 +144,6 @@ El RSI es un indicador popular que se usa en el trading de criptomonedas, materi
 
 ---
 **SMA:** La media móvil simple (SMA) es una herramienta estadística que calcula el precio promedio de un activo durante un período específico. Es un indicador técnico que se utiliza para analizar tendencias de precios. 
-
 ---
 
 

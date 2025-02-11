@@ -78,7 +78,7 @@ pip freeze > requirements.txt
 1. Asegúrate de estar en el ambiente virtual (venv activado).
 2. Ejecuta el script principal:
 ```bash
-python scripts/main.py
+python main.py
 ```
 3. Sigue las instrucciones en la terminal para ver las decisiones de compra/venta del bot.
 4. Puedes visualizar los gráficos generados en la carpeta results/.
