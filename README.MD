@@ -4,11 +4,9 @@ Este repositorio contiene cuatro proyectos desarrollados durante el Bootcamp de 
 
 ## 📌 Proyectos incluidos:
 
-- 🔹 **[RobotTrading](./RobotTrading/)** - Creación de un bot de trading en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real. Incluye obtención y limpieza de datos, análisis de tendencias y automatización del proceso.
+- 🔹 **[Robot Trading](./RobotTrading/)** - Creación de un bot de trading en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real. Incluye obtención y limpieza de datos, análisis de tendencias y automatización del proceso.
 
-- 🔹 **Proyecto 2:** [Nombre del proyecto] - [Breve descripción]  
-- 🔹 **Proyecto 3:** [Nombre del proyecto] - [Breve descripción]  
-- 🔹 **Proyecto 4:** [Nombre del proyecto] - [Breve descripción]  
+- 🔹 **[Esencia del Cliente](./EsenciaCliente/)** - Proyecto de análisis de datos para comprender los hábitos de compra en la cadena de supermercados Universal Food. Incluye obtención y transformación de datos, exploración visual, preprocesamiento y aplicación de algoritmos de clustering con Scikit-Learn para segmentar clientes. El objetivo es mejorar la experiencia de compra mediante estrategias personalizadas basadas en los hallazgos obtenidos.
 
 📂 Cada carpeta contiene notebooks, datasets y código fuente para explorar los análisis realizados.  
 
