@@ -2,6 +2,8 @@
 
 Este documento contiene toda la información detallada sobre la implementación del **análisis de hábitos de compra** mediante clustering en la cadena de supermercados **Universal Food**.
 
+[Datos](https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart)
+
 ## 📌 Contenido
 
 1. [Introducción](#introducción)
@@ -132,7 +134,7 @@ Para garantizar la efectividad de la segmentación, se realizan:
 - [Documentación de Pandas](https://pandas.pydata.org/docs/)
 - [Documentación de Matplotlib](https://matplotlib.org/stable/users/index.html)
 - [Documentación de Seaborn](https://seaborn.pydata.org/)
-- [Documentación de Scikit-learn](https://scikit-learn.org/stable/)
+- [Documentación de Scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 
 ---
 
@@ -146,6 +148,9 @@ Métrica utilizada para evaluar la calidad de los clusters en un análisis de se
 
 ### **Estandarización de datos**
 Proceso que ajusta las variables a una misma escala para evitar sesgos en los algoritmos de Machine Learning.
+
+### **PCA**
+El PCA es una técnica estadística introducida por el matemático Karl Pearson en 1901. Funciona transformando datos de alta dimensión en un espacio de menor dimensión mientras maximiza la varianza (o dispersión) de los datos en el nuevo espacio . Esto ayuda a preservar los patrones y relaciones más importantes en los datos.
 
 ---
 
