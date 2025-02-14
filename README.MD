@@ -11,6 +11,8 @@ Este repositorio contiene cuatro proyectos desarrollados durante el Bootcamp de 
 📂 Cada carpeta contiene notebooks, datasets y código fuente para explorar los análisis realizados.  
 
 ## 📌 Cuadernos en Google Colab:
-- 🔹 **[RobotTradingColab](https://drive.google.com/file/d/1J7sfpetYsEsc_tqV4dHaR4qpEj6SCqd5/view?usp=sharing)**
+- 🔹 **[RobotTradingColab](https://colab.research.google.com/drive/1wpQwyeiCqPN1FrVcLdnFrcfLO1GvxORm?usp=sharing)**
+- 🔹 **[Esencia del Cliente](https://colab.research.google.com/drive/15Xec67rixV83_j4JPgxhfzECsyAE0x6x?usp=sharing)**
+
 
 ¡Explora y aprende más sobre Ciencia de Datos! 🚀📈  
