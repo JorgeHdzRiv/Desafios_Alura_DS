@@ -8,6 +8,13 @@ Este repositorio contiene cuatro proyectos desarrollados durante el Bootcamp de 
 
 - 🔹 **[Esencia del Cliente](./EsenciaCliente/)** - Proyecto de análisis de datos para comprender los hábitos de compra en la cadena de supermercados Universal Food. Incluye obtención y transformación de datos, exploración visual, preprocesamiento y aplicación de algoritmos de clustering con Scikit-Learn para segmentar clientes. El objetivo es mejorar la experiencia de compra mediante estrategias personalizadas basadas en los hallazgos obtenidos.
 
+### Futuras actualizaciones
+
+- 🔹 **[Chatbot Inteligente]()** - Desarrollo de un chatbot en Python capaz de interpretar el lenguaje humano y generar respuestas coherentes. Incluye configuración del ambiente en Google Colab, importación y tratamiento de datos lingüísticos, carga de bases de documentos, aplicación de técnicas de similitud de textos y modelos de Machine Learning para determinar respuestas. El chatbot es entrenado con ejemplos de diálogos para mejorar su precisión y ofrecer interacciones más naturales.
+
+- 🔹 **[Analisis Corporativo Global]()** - Desarrollo de un informe detallado para Data Insider, un equipo de asesores financieros con presencia global, con el objetivo de analizar el comportamiento de grandes corporaciones a nivel mundial desde 2015. El proyecto incluye la configuración del ambiente en Google Colab o Python, obtención de datos a través de descargas y API REST, limpieza y transformación de datos con Pandas, fusión de datasets, análisis exploratorio, consultas clave y generación de visualizaciones con Matplotlib y Seaborn. Finalmente, los hallazgos son sintetizados en una presentación clara y estructurada para la toma de decisiones estratégicas.
+
+
 📂 Cada carpeta contiene notebooks, datasets y código fuente para explorar los análisis realizados.  
 
 ## 📌 Cuadernos en Google Colab:
