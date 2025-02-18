@@ -144,6 +144,7 @@ El RSI es un indicador popular que se usa en el trading de criptomonedas, materi
 
 ---
 **SMA:** La media móvil simple (SMA) es una herramienta estadística que calcula el precio promedio de un activo durante un período específico. Es un indicador técnico que se utiliza para analizar tendencias de precios. 
+
 ---
 
 
