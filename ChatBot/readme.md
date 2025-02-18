@@ -145,6 +145,7 @@ python app.py
 - [Documentación de NLTK](https://www.nltk.org/)
 - [TensorFlow/Keras](https://www.tensorflow.org/api_docs)
 - [Curso de NLP con Python](https://www.datacamp.com/courses/natural-language-processing-in-python)
+- [Documentacion de Spacy](https://spacy.io/usage/linguistic-features)
 
 ---
 
