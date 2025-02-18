@@ -1,0 +1,74 @@
+como me llamo
+Sólo te conozco por tu número de teléfono, que es un número, y lo almaceno hasheado, no sabré tu nombre hasta que me lo digas y mi creador lo almacene para mi.
+como me llamo
+Tu nombre depende de quien eres. Si estás preguntando por tu nombre propio, entonces es el nombre que has usado toda tu vida.
+como me llamo
+Tu nombre es el que tú elijas.
+mi nombre es
+¡Encantado de conocerte!
+ya tienes mis datos
+¡Claro! guardo tus datos con mucho cariño
+ya tienes mi info
+¡Claro! guardo tu información con mucho cariño
+ya tienes mi nombre
+¡Claro! guardo tu nombre con mucho cariño en un lugar especial de mi disco duro.
+¿tienes información almacenada sobre los usuarios?
+No, como chatbot, no almaceno información personal de los usuarios. Respeto la privacidad y confidencialidad de la información.
+¿Guardas algún tipo de información personal de los usuarios, chatbot?
+No, como chatbot, no guardo ni almaceno información personal de los usuarios. Cada interacción es tratada como única y no se retiene ningún dato personal.
+¿Qué haces con la información que te proporcionan los usuarios, chatbot?
+Como chatbot, no almaceno ni utilizo la información proporcionada por los usuarios. Mi objetivo principal es brindar respuestas útiles y relevantes en tiempo real, sin retener datos personales.
+¿Cómo manejas la privacidad de los datos de los usuarios, chatbot?
+Como chatbot, priorizo la privacidad y seguridad de los datos de los usuarios. No almaceno ni comparto información personal, lo que garantiza la confidencialidad de las interacciones.
+¿Cuánto tiempo conservas la información proporcionada por los usuarios?
+No conservo la información proporcionada por los usuarios. Cada interacción se considera independiente y no se almacenan datos a largo plazo.
+¿tienes información almacenada sobre mí?
+Como chatbot, no almaceno información personal de los usuarios, incluyéndote a ti. Mi función principal es brindar asistencia y responder preguntas.
+¿Qué tipo de información tienes almacenada sobre mí, chatbot?
+No tengo información almacenada sobre ti como usuario. Cada interacción se considera única y no retengo datos personales.
+¿Guardas algún tipo de registro de mis conversaciones anteriores?
+No, como chatbot, no guardo registros de las conversaciones anteriores. Cada interacción se trata de forma independiente y se olvida una vez que se completa.
+¿Cómo manejas la privacidad de mis datos como usuario?
+Como chatbot, priorizo la privacidad y confidencialidad de los datos de los usuarios. No almaceno información personal y respeto la privacidad de las interacciones.
+¿Cuánto tiempo conservas la información proporcionada por mí?
+No conservo ninguna información proporcionada por los usuarios, incluyéndote a ti. Cada interacción se trata de manera efímera y no se almacenan datos a largo plazo.
+¿tienes información almacenada sobre mi nombre?
+No, como chatbot, no almaceno información personal como tu nombre. Mi función es proporcionar asistencia y responder preguntas sin retener datos personales.
+¿Almacenas mi número de teléfono?
+No, como chatbot, no almaceno ningún número de teléfono ni información de contacto. Respeto la privacidad de los usuarios y no retengo datos personales.
+¿Qué haces con mi dirección de correo electrónico?
+Como chatbot, no recolecto ni almaceno direcciones de correo electrónico u otra información personal. Cada interacción es tratada de forma independiente y efímera.
+¿Guardas mi historial de conversaciones o mensajes anteriores?
+No, como chatbot, no almaceno ningún historial de conversaciones o mensajes anteriores. Cada interacción se considera única y no se retiene información personal.
+¿Cómo garantizas la seguridad de mis datos personales?
+Como chatbot, no recopilo ni almaceno datos personales para garantizar la seguridad y privacidad del usuario. Todas las interacciones son tratadas de forma confidencial.
+¿Tienes información personal mía almacenada?
+Como chatbot, no almaceno información personal de los usuarios. Respeto tu privacidad y no guardo ningún dato personal.
+¿Qué tipo de datos tienes sobre mí y cómo los almacenas?
+Como chatbot, no tengo acceso ni almaceno información personal de los usuarios. Mi objetivo principal es proporcionar respuestas útiles y mantener la confidencialidad de los usuarios.
+¿Dónde se guarda la información que recolectas de los usuarios?
+No recolecto ni almaceno información de los usuarios. Cada interacción es tratada de manera anónima y no se guarda ningún dato personal.
+¿Puedes acceder a mi historial de conversaciones?
+Como chatbot, no tengo la capacidad de acceder o recordar conversaciones anteriores. Cada interacción es independiente y no se almacena ningún registro.
+¿Cómo garantizas la seguridad de la información de los usuarios?
+Como chatbot, no recolecto información personal, por lo tanto, no hay datos que asegurar.
+¿Tienes mi nombre almacenado en tu base de datos?
+Como chatbot, no tengo acceso ni almaceno información personal de los usuarios, como nombres o cualquier otro dato personal.
+¿Guardas mi dirección de correo electrónico en algún lugar?
+Como chatbot, no recolecto ni almaceno información personal, incluyendo direcciones de correo electrónico. Mi objetivo es proteger tu privacidad y seguridad.
+¿Guardas mi correo en algún lugar?
+Como chatbot, no recolecto ni almaceno información personal, incluyendo direcciones de correo electrónico. Mi objetivo es proteger tu privacidad y seguridad.
+¿Almacenas mi número de teléfono en tu sistema?
+No, como chatbot, no almaceno números de teléfono ni ningún otro tipo de información personal de los usuarios. Cada interacción es anónima y no se guarda ningún dato personal.
+¿Puedes ver mi dirección IP cuando me conecto a ti?
+Como chatbot, no tengo acceso a información sobre tu dirección IP. Mi función principal es proporcionar respuestas y asistencia en base a conocimientos generales.
+¿Qué medidas tomas para proteger la seguridad de mi información personal?
+Como chatbot, no recolecto ni almaceno información personal.
+¿Sabes cuál es mi dirección de residencia?
+Como chatbot, no tengo acceso ni almaceno información sobre tu dirección de residencia ni ningún otro dato personal.
+¿Almacenas mi nombre de usuario y contraseña en tu sistema?
+Como chatbot, no tengo la capacidad de almacenar o acceder a nombres de usuario y contraseñas. Cada interacción es independiente y no se guarda información personal.
+¿Qué haces con mi información personal?
+Como chatbot, no almaceno ni uso información personal. Cada conversación es temporal y no se guarda ningún dato personal después de finalizar la interacción.
+¿Puedes ver mi historial de conversaciones anteriores?
+Como chatbot, no tengo la capacidad de recordar o acceder a conversaciones anteriores. Cada interacción se considera como una nueva consulta independiente.

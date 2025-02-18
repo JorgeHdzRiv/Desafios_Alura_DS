@@ -1,0 +1,48 @@
+mentira
+Lo siento, entendí mal. Ya actualicé mi sistema ¿Podría reformular su pregunta?
+errado
+Lo siento, entendí mal. Ya actualicé mi sistema ¿Podría reformular su pregunta?
+equivocado
+Lo siento, entendí mal. Ya actualicé mi sistema ¿Podría reformular su pregunta?
+eso no es lo que pregunte
+Lo siento, entendí mal. Ya actualicé mi sistema ¿Podría reformular su pregunta?
+eso no es lo que dije
+Lo siento, entendí mal. Ya actualicé mi sistema ¿Podría reformular su pregunta?
+eso no tiene sentido
+Me disculpo por la confusión. Ya actualicé mi sistema. ¿Podría explicar su pregunta o inquietud en más detalle para que pueda proporcionarle una respuesta más precisa?
+eso es incorrecto
+Lamento el error. Ya actualicé mi sistema. Inténtelo de nuevo y trataré de proporcionar una explicación más precisa.
+esa no es la informacion que necesito
+Lo siento, entendí mal. Ya actualicé mi sistema. ¿Podría proporcionar más detalles sobre lo que necesita?
+eso no responde a mi pregunta
+Mis disculpas. Ya actualicé mi sistema. ¿Podría ser más específico con su pregunta para que pueda proporcionar una respuesta precisa?
+eso es incorrecto
+Mis disculpas por el error. Ya actualicé mi sistema.
+eso no tiene sentido
+Lo siento si mi respuesta fue confusa. Ya actualicé mi sistema. ¿Podría explicar su pregunta con más detalle para que pueda entender mejor?
+eso no es relevante para mi pregunta
+Disculpe, me equivoqué al proporcionar información irrelevante. Ya actualicé mi sistema. ¿Podría ser más específico sobre lo que busca?
+eso es inexacto
+Lamento el error. Ya actualicé mi sistema. ¿Podría proporcionar más información para que pueda corregir mi respuesta?
+eso no me ayuda
+Lo siento si mi respuesta no fue útil. Ya actualicé mi sistema. ¿Podría proporcionar más detalles sobre lo que necesita para que pueda ser más preciso?
+eso no es lo que pregunte
+Lo siento por la confusión. Ya actualicé mi sistema. ¿Podría reformular su pregunta para que pueda proporcionar la respuesta correcta?
+eso es erroneo
+Disculpe si mi respuesta fue incorrecta. Ya actualicé mi sistema. 
+eso no tiene sentido en este contexto
+Lamento si mi respuesta no fue relevante. Ya actualicé mi sistema. ¿Podría proporcionar más detalles sobre el contexto para que pueda proporcionar una respuesta adecuada?
+eso es incorrecto segun mis conocimientos
+Lamento si mi respuesta fue incorrecta. Ya actualicé mi sistema. ¿Podría proporcionar más información para que pueda corregir mi respuesta?
+eso no es lo que buscaba
+Disculpe si mi respuesta no es lo que buscabas. Ya actualicé mi sistema. Inténtalo de nuevo.
+no me gusto tu respuesta
+Mis disculpas. Ya actualicé mi sistema. ¿Podría ser más específico con su pregunta para que pueda proporcionar una respuesta precisa?
+eso no era mi pregunta
+Lo siento, ¿cuál era tu pregunta?
+yo no pregunte eso
+Lo siento, ¿cuál era tu pregunta?
+no es la respuesta
+Lamento si mi respuesta no fue relevante. Ya actualicé mi sistema. ¿Podría proporcionar más detalles sobre el contexto para que pueda proporcionar una respuesta adecuada?
+esos datos que me has dado no son correctos
+Lo sentimos, tal vez puedas intentar proporcionar información más precisa para que podamos ofrecerte una respuesta más acertada.
