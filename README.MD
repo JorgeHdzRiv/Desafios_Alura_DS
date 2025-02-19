@@ -14,7 +14,6 @@ Este repositorio contiene cuatro proyectos desarrollados durante el Bootcamp de 
 
 - 🔹 **[Analisis Corporativo Global]()** - Desarrollo de un informe detallado para Data Insider, un equipo de asesores financieros con presencia global, con el objetivo de analizar el comportamiento de grandes corporaciones a nivel mundial desde 2015. El proyecto incluye la configuración del ambiente en Google Colab o Python, obtención de datos a través de descargas y API REST, limpieza y transformación de datos con Pandas, fusión de datasets, análisis exploratorio, consultas clave y generación de visualizaciones con Matplotlib y Seaborn. Finalmente, los hallazgos son sintetizados en una presentación clara y estructurada para la toma de decisiones estratégicas.
 
-
 📂 Cada carpeta contiene notebooks, datasets y código fuente para explorar los análisis realizados.  
 
 ## 📌 Cuadernos en Google Colab:
@@ -24,6 +23,7 @@ Este repositorio contiene cuatro proyectos desarrollados durante el Bootcamp de 
 
 ## 📌 Presentacion de Resultados:
 - 🔹 **[Esencia del Cliente](https://docs.google.com/presentation/d/12440eScuIpwDb9n013qn8eFjdaDgUP2B1jKRhH2Qb8Q/edit?usp=sharing)**
+
 
 
 ¡Explora y aprende más sobre Ciencia de Datos! 🚀📈  
