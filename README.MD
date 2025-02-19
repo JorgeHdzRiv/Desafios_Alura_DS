@@ -17,14 +17,16 @@ Este repositorio contiene cuatro proyectos desarrollados durante el Bootcamp de 
 📂 Cada carpeta contiene notebooks, datasets y código fuente para explorar los análisis realizados.  
 
 ## 📌 Cuadernos en Google Colab:
-🔹 <a href="https://colab.research.google.com/drive/1wpQwyeiCqPN1FrVcLdnFrcfLO1GvxORm?usp=sharing" target="_blank">**Robot Trading**</a>
+<a href="https://colab.research.google.com/drive/1nYXIkW67Oc6NcwMBwHINMaiqZZ1Im4jt?usp=sharing" target="_blank" rel="noopener noreferrer">🔹 <b>Chatbot Inteligente</b></a>
 
-🔹 <a href="https://colab.research.google.com/drive/15Xec67rixV83_j4JPgxhfzECsyAE0x6x?usp=sharing" target="_blank">**Esencia del Cliente**</a>
+<a href="https://colab.research.google.com/drive/15Xec67rixV83_j4JPgxhfzECsyAE0x6x?usp=sharing" target="_blank" rel="noopener noreferrer">🔹 <b>Esencia del Cliente</b></a>
 
-🔹 <a href="https://colab.research.google.com/drive/1nYXIkW67Oc6NcwMBwHINMaiqZZ1Im4jt?usp=sharing" target="_blank">**Chatbot Inteligente**</a>
+<a href="https://colab.research.google.com/drive/1nYXIkW67Oc6NcwMBwHINMaiqZZ1Im4jt?usp=sharing" target="_blank" rel="noopener noreferrer">🔹 <b>Chatbot Inteligente</b></a>
+
 
 ## 📌 Presentacion de Resultados:
-🔹 <a href="https://docs.google.com/presentation/d/12440eScuIpwDb9n013qn8eFjdaDgUP2B1jKRhH2Qb8Q/edit?usp=sharing" target="_blank">**Esencia del Cliente**</a>
+<a href="https://docs.google.com/presentation/d/12440eScuIpwDb9n013qn8eFjdaDgUP2B1jKRhH2Qb8Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer">🔹 <b>Esencia del Cliente</b></a>
+
 
 
 ¡Explora y aprende más sobre Ciencia de Datos! 🚀📈  
