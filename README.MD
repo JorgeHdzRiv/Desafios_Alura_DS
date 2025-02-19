@@ -18,7 +18,9 @@ Este repositorio contiene cuatro proyectos desarrollados durante el Bootcamp de 
 
 ## 📌 Cuadernos en Google Colab:
 🔹 <a href="https://colab.research.google.com/drive/1wpQwyeiCqPN1FrVcLdnFrcfLO1GvxORm?usp=sharing" target="_self">**Robot Trading**</a>
+
 🔹 <a href="https://colab.research.google.com/drive/15Xec67rixV83_j4JPgxhfzECsyAE0x6x?usp=sharing" target="_self">**Esencia del Cliente**</a>
+
 🔹 <a href="https://colab.research.google.com/drive/1nYXIkW67Oc6NcwMBwHINMaiqZZ1Im4jt?usp=sharing" target="_self">**Chatbot Inteligente**</a>
 
 ## 📌 Presentacion de Resultados:
