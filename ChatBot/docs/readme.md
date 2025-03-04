@@ -119,14 +119,14 @@ Para ejecutar el chatbot dentro de Colab:
 Si deseas ejecutarlo localmente:
 
 ```bash
-python chatbot.py
+python main.py
 ```
 
 El chatbot responderá en la terminal.
 
 ---
 
-## 🔄 Automatización
+## 🔄 Automatización (Futura Actualizacion)
 
 Puedes automatizar la ejecución del chatbot usando tareas programadas o integrándolo con una API en Flask.
 
@@ -159,5 +159,3 @@ python app.py
 **Tokenización:** Proceso de dividir un texto en palabras o frases individuales.
 
 ---
-
-¡Listo! Ahora puedes comenzar a entrenar y mejorar tu **Chatbot Inteligente** 🚀🤖.
