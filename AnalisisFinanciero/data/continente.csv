@@ -1,0 +1,259 @@
+Continent_Name,Continent_Code,Three_Letter_Country_Code,Country_Name
+Asia,AS,AFG,"Afghanistan, Islamic Republic of"
+Europe,EU,ALB,"Albania, Republic of"
+Antarctica,AN,ATA,Antarctica (the territory South of 60 deg S)
+Africa,AF,DZA,"Algeria, People's Democratic Republic of"
+Oceania,OC,ASM,American Samoa
+Europe,EU,AND,"Andorra, Principality of"
+Africa,AF,AGO,"Angola, Republic of"
+North America,NA,ATG,Antigua and Barbuda
+Europe,EU,AZE,"Azerbaijan, Republic of"
+Asia,AS,AZE,"Azerbaijan, Republic of"
+South America,SA,ARG,"Argentina, Argentine Republic"
+Oceania,OC,AUS,"Australia, Commonwealth of"
+Europe,EU,AUT,"Austria, Republic of"
+North America,NA,BHS,"Bahamas, Commonwealth of the"
+Asia,AS,BHR,"Bahrain, Kingdom of"
+Asia,AS,BGD,"Bangladesh, People's Republic of"
+Europe,EU,ARM,"Armenia, Republic of"
+Asia,AS,ARM,"Armenia, Republic of"
+North America,NA,BRB,Barbados
+Europe,EU,BEL,"Belgium, Kingdom of"
+North America,NA,BMU,Bermuda
+Asia,AS,BTN,"Bhutan, Kingdom of"
+South America,SA,BOL,"Bolivia, Republic of"
+Europe,EU,BIH,Bosnia and Herzegovina
+Africa,AF,BWA,"Botswana, Republic of"
+Antarctica,AN,BVT,Bouvet Island (Bouvetoya)
+South America,SA,BRA,"Brazil, Federative Republic of"
+North America,NA,BLZ,Belize
+Asia,AS,IOT,British Indian Ocean Territory (Chagos Archipelago)
+Oceania,OC,SLB,Solomon Islands
+North America,NA,VGB,British Virgin Islands
+Asia,AS,BRN,Brunei Darussalam
+Europe,EU,BGR,"Bulgaria, Republic of"
+Asia,AS,MMR,"Myanmar, Union of"
+Africa,AF,BDI,"Burundi, Republic of"
+Europe,EU,BLR,"Belarus, Republic of"
+Asia,AS,KHM,"Cambodia, Kingdom of"
+Africa,AF,CMR,"Cameroon, Republic of"
+North America,NA,CAN,Canada
+Africa,AF,CPV,"Cape Verde, Republic of"
+North America,NA,CYM,Cayman Islands
+Africa,AF,CAF,Central African Republic
+Asia,AS,LKA,"Sri Lanka, Democratic Socialist Republic of"
+Africa,AF,TCD,"Chad, Republic of"
+South America,SA,CHL,"Chile, Republic of"
+Asia,AS,CHN,"China, People's Republic of"
+Asia,AS,TWN,Taiwan
+Asia,AS,CXR,Christmas Island
+Asia,AS,CCK,Cocos (Keeling) Islands
+South America,SA,COL,"Colombia, Republic of"
+Africa,AF,COM,"Comoros, Union of the"
+Africa,AF,MYT,Mayotte
+Africa,AF,COG,"Congo, Republic of the"
+Africa,AF,COD,"Congo, Democratic Republic of the"
+Oceania,OC,COK,Cook Islands
+North America,NA,CRI,"Costa Rica, Republic of"
+Europe,EU,HRV,"Croatia, Republic of"
+North America,NA,CUB,"Cuba, Republic of"
+Europe,EU,CYP,"Cyprus, Republic of"
+Asia,AS,CYP,"Cyprus, Republic of"
+Europe,EU,CZE,Czech Republic
+Africa,AF,BEN,"Benin, Republic of"
+Europe,EU,DNK,"Denmark, Kingdom of"
+North America,NA,DMA,"Dominica, Commonwealth of"
+North America,NA,DOM,Dominican Republic
+South America,SA,ECU,"Ecuador, Republic of"
+North America,NA,SLV,"El Salvador, Republic of"
+Africa,AF,GNQ,"Equatorial Guinea, Republic of"
+Africa,AF,ETH,"Ethiopia, Federal Democratic Republic of"
+Africa,AF,ERI,"Eritrea, State of"
+Europe,EU,EST,"Estonia, Republic of"
+Europe,EU,FRO,Faroe Islands
+South America,SA,FLK,Falkland Islands (Malvinas)
+Antarctica,AN,SGS,South Georgia and the South Sandwich Islands
+Oceania,OC,FJI,"Fiji, Republic of the Fiji Islands"
+Europe,EU,FIN,"Finland, Republic of"
+Europe,EU,ALA,Åland Islands
+Europe,EU,FRA,"France, French Republic"
+South America,SA,GUF,French Guiana
+Oceania,OC,PYF,French Polynesia
+Antarctica,AN,ATF,French Southern Territories
+Africa,AF,DJI,"Djibouti, Republic of"
+Africa,AF,GAB,"Gabon, Gabonese Republic"
+Europe,EU,GEO,Georgia
+Asia,AS,GEO,Georgia
+Africa,AF,GMB,"Gambia, Republic of the"
+Asia,AS,PSE,"Palestinian Territory, Occupied"
+Europe,EU,DEU,"Germany, Federal Republic of"
+Africa,AF,GHA,"Ghana, Republic of"
+Europe,EU,GIB,Gibraltar
+Oceania,OC,KIR,"Kiribati, Republic of"
+Europe,EU,GRC,"Greece, Hellenic Republic"
+North America,NA,GRL,Greenland
+North America,NA,GRD,Grenada
+North America,NA,GLP,Guadeloupe
+Oceania,OC,GUM,Guam
+North America,NA,GTM,"Guatemala, Republic of"
+Africa,AF,GIN,"Guinea, Republic of"
+South America,SA,GUY,"Guyana, Co-operative Republic of"
+North America,NA,HTI,"Haiti, Republic of"
+Antarctica,AN,HMD,Heard Island and McDonald Islands
+Europe,EU,VAT,Holy See (Vatican City State)
+North America,NA,HND,"Honduras, Republic of"
+Asia,AS,HKG,"Hong Kong, Special Administrative Region of China"
+Europe,EU,HUN,"Hungary, Republic of"
+Europe,EU,ISL,"Iceland, Republic of"
+Asia,AS,IND,"India, Republic of"
+Asia,AS,IDN,"Indonesia, Republic of"
+Asia,AS,IRN,"Iran, Islamic Republic of"
+Asia,AS,IRQ,"Iraq, Republic of"
+Europe,EU,IRL,Ireland
+Asia,AS,ISR,"Israel, State of"
+Europe,EU,ITA,"Italy, Italian Republic"
+Africa,AF,CIV,"Cote d'Ivoire, Republic of"
+North America,NA,JAM,Jamaica
+Asia,AS,JPN,Japan
+Europe,EU,KAZ,"Kazakhstan, Republic of"
+Asia,AS,KAZ,"Kazakhstan, Republic of"
+Asia,AS,JOR,"Jordan, Hashemite Kingdom of"
+Africa,AF,KEN,"Kenya, Republic of"
+Asia,AS,PRK,"Korea, Democratic People's Republic of"
+Asia,AS,KOR,"Korea, Republic of"
+Asia,AS,KWT,"Kuwait, State of"
+Asia,AS,KGZ,Kyrgyz Republic
+Asia,AS,LAO,Lao People's Democratic Republic
+Asia,AS,LBN,"Lebanon, Lebanese Republic"
+Africa,AF,LSO,"Lesotho, Kingdom of"
+Europe,EU,LVA,"Latvia, Republic of"
+Africa,AF,LBR,"Liberia, Republic of"
+Africa,AF,LBY,Libyan Arab Jamahiriya
+Europe,EU,LIE,"Liechtenstein, Principality of"
+Europe,EU,LTU,"Lithuania, Republic of"
+Europe,EU,LUX,"Luxembourg, Grand Duchy of"
+Asia,AS,MAC,"Macao, Special Administrative Region of China"
+Africa,AF,MDG,"Madagascar, Republic of"
+Africa,AF,MWI,"Malawi, Republic of"
+Asia,AS,MYS,Malaysia
+Asia,AS,MDV,"Maldives, Republic of"
+Africa,AF,MLI,"Mali, Republic of"
+Europe,EU,MLT,"Malta, Republic of"
+North America,NA,MTQ,Martinique
+Africa,AF,MRT,"Mauritania, Islamic Republic of"
+Africa,AF,MUS,"Mauritius, Republic of"
+North America,NA,MEX,"Mexico, United Mexican States"
+Europe,EU,MCO,"Monaco, Principality of"
+Asia,AS,MNG,Mongolia
+Europe,EU,MDA,"Moldova, Republic of"
+Europe,EU,MNE,"Montenegro, Republic of"
+North America,NA,MSR,Montserrat
+Africa,AF,MAR,"Morocco, Kingdom of"
+Africa,AF,MOZ,"Mozambique, Republic of"
+Asia,AS,OMN,"Oman, Sultanate of"
+Africa,AF,NAM,"Namibia, Republic of"
+Oceania,OC,NRU,"Nauru, Republic of"
+Asia,AS,NPL,"Nepal, State of"
+Europe,EU,NLD,"Netherlands, Kingdom of the"
+North America,NA,ANT,Netherlands Antilles
+North America,NA,CUW,Curaçao
+North America,NA,ABW,Aruba
+North America,NA,SXM,Sint Maarten (Netherlands)
+North America,NA,BES,"Bonaire, Sint Eustatius and Saba"
+Oceania,OC,NCL,New Caledonia
+Oceania,OC,VUT,"Vanuatu, Republic of"
+Oceania,OC,NZL,New Zealand
+North America,NA,NIC,"Nicaragua, Republic of"
+Africa,AF,NER,"Niger, Republic of"
+Africa,AF,NGA,"Nigeria, Federal Republic of"
+Oceania,OC,NIU,Niue
+Oceania,OC,NFK,Norfolk Island
+Europe,EU,NOR,"Norway, Kingdom of"
+Oceania,OC,MNP,"Northern Mariana Islands, Commonwealth of the"
+Oceania,OC,UMI,United States Minor Outlying Islands
+North America,NA,UMI,United States Minor Outlying Islands
+Oceania,OC,FSM,"Micronesia, Federated States of"
+Oceania,OC,MHL,"Marshall Islands, Republic of the"
+Oceania,OC,PLW,"Palau, Republic of"
+Asia,AS,PAK,"Pakistan, Islamic Republic of"
+North America,NA,PAN,"Panama, Republic of"
+Oceania,OC,PNG,"Papua New Guinea, Independent State of"
+South America,SA,PRY,"Paraguay, Republic of"
+South America,SA,PER,"Peru, Republic of"
+Asia,AS,PHL,"Philippines, Republic of the"
+Oceania,OC,PCN,Pitcairn Islands
+Europe,EU,POL,"Poland, Republic of"
+Europe,EU,PRT,"Portugal, Portuguese Republic"
+Africa,AF,GNB,"Guinea-Bissau, Republic of"
+Asia,AS,TLS,"Timor-Leste, Democratic Republic of"
+North America,NA,PRI,"Puerto Rico, Commonwealth of"
+Asia,AS,QAT,"Qatar, State of"
+Africa,AF,REU,Reunion
+Europe,EU,ROU,Romania
+Europe,EU,RUS,Russian Federation
+Asia,AS,RUS,Russian Federation
+Africa,AF,RWA,"Rwanda, Republic of"
+North America,NA,BLM,Saint Barthelemy
+Africa,AF,SHN,Saint Helena
+North America,NA,KNA,"Saint Kitts and Nevis, Federation of"
+North America,NA,AIA,Anguilla
+North America,NA,LCA,Saint Lucia
+North America,NA,MAF,Saint Martin
+North America,NA,SPM,Saint Pierre and Miquelon
+North America,NA,VCT,Saint Vincent and the Grenadines
+Europe,EU,SMR,"San Marino, Republic of"
+Africa,AF,STP,"Sao Tome and Principe, Democratic Republic of"
+Asia,AS,SAU,"Saudi Arabia, Kingdom of"
+Africa,AF,SEN,"Senegal, Republic of"
+Europe,EU,SRB,"Serbia, Republic of"
+Africa,AF,SYC,"Seychelles, Republic of"
+Africa,AF,SLE,"Sierra Leone, Republic of"
+Asia,AS,SGP,"Singapore, Republic of"
+Europe,EU,SVK,Slovakia (Slovak Republic)
+Asia,AS,VNM,"Vietnam, Socialist Republic of"
+Europe,EU,SVN,"Slovenia, Republic of"
+Africa,AF,SOM,"Somalia, Somali Republic"
+Africa,AF,ZAF,"South Africa, Republic of"
+Africa,AF,ZWE,"Zimbabwe, Republic of"
+Europe,EU,ESP,"Spain, Kingdom of"
+Africa,AF,SSD,South Sudan
+Africa,AF,ESH,Western Sahara
+Africa,AF,SDN,"Sudan, Republic of"
+South America,SA,SUR,"Suriname, Republic of"
+Europe,EU,SJM,Svalbard & Jan Mayen Islands
+Africa,AF,SWZ,"Swaziland, Kingdom of"
+Europe,EU,SWE,"Sweden, Kingdom of"
+Europe,EU,CHE,"Switzerland, Swiss Confederation"
+Asia,AS,SYR,Syrian Arab Republic
+Asia,AS,TJK,"Tajikistan, Republic of"
+Asia,AS,THA,"Thailand, Kingdom of"
+Africa,AF,TGO,"Togo, Togolese Republic"
+Oceania,OC,TKL,Tokelau
+Oceania,OC,TON,"Tonga, Kingdom of"
+North America,NA,TTO,"Trinidad and Tobago, Republic of"
+Asia,AS,ARE,United Arab Emirates
+Africa,AF,TUN,"Tunisia, Tunisian Republic"
+Europe,EU,TUR,"Turkey, Republic of"
+Asia,AS,TUR,"Turkey, Republic of"
+Asia,AS,TKM,Turkmenistan
+North America,NA,TCA,Turks and Caicos Islands
+Oceania,OC,TUV,Tuvalu
+Africa,AF,UGA,"Uganda, Republic of"
+Europe,EU,UKR,Ukraine
+Europe,EU,MKD,"Macedonia, The Former Yugoslav Republic of"
+Africa,AF,EGY,"Egypt, Arab Republic of"
+Europe,EU,GBR,United Kingdom of Great Britain & Northern Ireland
+Europe,EU,GGY,"Guernsey, Bailiwick of"
+Europe,EU,JEY,"Jersey, Bailiwick of"
+Europe,EU,IMN,Isle of Man
+Africa,AF,TZA,"Tanzania, United Republic of"
+North America,NA,USA,United States of America
+North America,NA,VIR,United States Virgin Islands
+Africa,AF,BFA,Burkina Faso
+South America,SA,URY,"Uruguay, Eastern Republic of"
+Asia,AS,UZB,"Uzbekistan, Republic of"
+South America,SA,VEN,"Venezuela, Bolivarian Republic of"
+Oceania,OC,WLF,Wallis and Futuna
+Oceania,OC,WSM,"Samoa, Independent State of"
+Asia,AS,YEM,Yemen
+Africa,AF,ZMB,"Zambia, Republic of"
